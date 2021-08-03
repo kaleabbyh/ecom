@@ -107,7 +107,7 @@ function getPro(){
                     
                     <p class='price'>
                     
-                        $ $pro_price
+                         $pro_price birr
                     
                     </p>
                     
@@ -295,7 +295,7 @@ function getpcatpro(){
                     
                     <p class='price'>
                     
-                        $ $pro_price
+                        $pro_price birr
                     
                     </p>
                     

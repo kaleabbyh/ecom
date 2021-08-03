@@ -30,11 +30,10 @@
                 <h4>Top Products Categories</h4>
                 
                 <ul><!-- ul Begin -->
-                    <li><a href="#">Jackets</a></li>
-                    <li><a href="#">Accessories</a></li>
-                    <li><a href="#">Coats</a></li>
-                    <li><a href="#">Shoes</a></li>
-                    <li><a href="#">T-Shirts</a></li>
+                   <?php
+                   
+                   getCats();
+                   ?>
                 </ul><!-- ul Finish -->
                 
                 <hr class="hidden-md hidden-lg">
