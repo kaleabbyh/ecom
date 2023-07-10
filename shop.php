@@ -4,14 +4,6 @@
     include("includes/header.php");
 
 ?>
-
-
-// <?php 
-
-//     $active='Shop';
-//     include("includes/header.php");
-
-// ?>
    
    <div id="content"><!-- #content Begin -->
        <div class="container"><!-- container Begin -->
