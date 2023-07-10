@@ -1,3 +1,11 @@
+<?php 
+
+    $active='Shop';
+    include("includes/header.php");
+
+?>
+
+
 // <?php 
 
 //     $active='Shop';
