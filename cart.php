@@ -1,9 +1,9 @@
-// <?php 
+<?php 
 
-//     $active='Cart';
-//     include("includes/header.php");
+    $active='Cart';
+    include("includes/header.php");
 
-// ?>
+?>
    
    <div id="content"><!-- #content Begin -->
        <div class="container"><!-- container Begin -->
